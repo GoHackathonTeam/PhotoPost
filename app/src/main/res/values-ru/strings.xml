@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings" translatable="false">Настройки</string>
+    <string name="action_about" translatable="false">О приложении</string>
+    <string name="permission_camera_toast">Это приложение бессмысленно без разрешения на камеру</string>
+    <string name="title_activity_post_photo">Опубликовать</string>
+    <string name="taken_photo">Только что сделанная фотография</string>
+    <string name="photo_name">Название фотографии</string>
+    <string name="send_button">Опубликовать</string>
+    <string name="take_photo_button">Сделать снимок</string>
+    <string name="photo_description">Описание</string>
+    <string name="error_dialog">Ошибка при отправке</string>
+    <string name="ok">Понятно</string>
+</resources>
